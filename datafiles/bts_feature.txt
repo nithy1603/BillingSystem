@@ -1,0 +1,16 @@
+CustomerAccountNumber¤Subscription_Name¤Feature_Name¤Telephone_Number¤Additional_Channels¤Date_Commenced¤Date_Terminated
+AN00019¤Mobile¤mLocal¤65785916¤¤02-Feb-2013¤
+AN00019¤Mobile¤mRoaming¤65785916¤¤02-Feb-2013¤
+AN00019¤Mobile¤mIDD¤65785916¤¤02-Feb-2013¤
+AN00020¤CableTV¤cStandard¤¤0¤02-Feb-2013¤
+AN00021¤Digital¤dLocal¤44533335¤¤02-Feb-2013¤
+AN00021¤Digital¤dIDD¤44533335¤¤02-Feb-2013¤
+AN00021¤Digital¤dCallTransfer¤44533335¤¤02-Mar-2013¤
+AN00022¤Digital¤dLocal¤89898080¤¤03-Feb-2013¤
+AN00022¤Mobile¤mLocal¤67667677¤¤03-Feb-2013¤
+AN00022¤CableTV¤cStandard¤¤7¤03-Feb-2013¤
+AN00022¤CableTV¤cAdditionalChannels¤¤7¤03-Feb-2013¤
+AN00018¤Digital¤dLocal¤90909090¤¤03-Feb-2013¤
+AN00018¤Digital¤dCallTransfer¤90909090¤¤03-Feb-2013¤
+AN00018¤CableTV¤cStandard¤¤6¤02-Feb-2013¤
+AN00018¤CableTV¤cAdditionalChannels¤¤6¤02-Feb-2013¤
