@@ -1,8 +1,7 @@
 Software Requirements
         Java JDK 1.5 or above    
 
-Please copy BTS_System.zip to your local machine and extract the files into a folder named BTS_System. This folder will have the following folders:
-
+Please download the files into a folder named BTS_System. 
 
 
 Set environment variables as following:
